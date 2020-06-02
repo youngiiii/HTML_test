@@ -1,0 +1,53 @@
+.nav
+{
+    background-color: blueviolet;
+}
+.logo_img
+{
+    background-color: crimson;
+    display: inline-block;
+}
+li
+{
+    display: inline;
+    /* font-size: 0; */
+}
+.menu
+{
+    background-color: red;
+    /* display: inline-block; */
+    box-sizing: border-box;
+    float: right;
+}
+.user_menu
+{
+    background-color:chocolate;   
+}
+.user_languge
+{
+    background-color:yellow;
+}
+.user_host
+{
+    background-color:blue;
+}
+.user_hosting
+{
+    background-color:darkolivegreen;
+}
+.user_qna
+{
+    background-color:darkslateblue;
+}
+.user_login    
+{
+    background-color: fuchsia;
+}    
+.signup
+{
+    background-color:powderblue
+}
+.signup_txt
+{
+
+}

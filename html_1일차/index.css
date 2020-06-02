@@ -1,0 +1,48 @@
+.header 
+{
+    color: aqua;
+}
+.header_menu
+{
+    color: blue; 
+}
+.heder_logo
+{
+    color: coral;
+}
+.header_logo_imag
+{
+    color: darkgreen;
+}
+.header_menu_set
+{
+    color: darkred;
+}
+.header_menu_set_detail
+{
+    color: gold;
+}
+.header_menu_set_detail_languge
+{
+    color: indigo;
+}
+.header_menu_set_detail_host
+{
+    color: khaki;
+}
+.header_menu_set_detail_hosting
+{
+    color: lightgray;
+}
+.header_menu_set_detail_qna
+{
+    color: rgb(241, 157, 119);
+}
+.header_menu_set_detail_login
+{
+    color: rgb(21, 4, 61);
+}
+.signUp
+{
+    color: rgba(127, 16, 172, 0.575);
+}

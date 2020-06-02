@@ -1,0 +1,53 @@
+.head
+{
+    background-color: teal;
+}
+.header
+{
+    background-color: rgb(69, 197, 197);
+}
+.login
+{
+    background-color:thistle;
+}
+.menu
+{
+    background-color: violet;
+    float: right;
+}
+.user_menu
+{
+    display: inline-block;
+}
+.user_lang
+{
+    background-color: brown;
+}
+.user_host
+{
+    background-color: teal;
+}
+.user_hosting
+{
+    background-color: teal;
+}
+.user_qna
+{
+    background-color: teal;
+}
+.user_login
+{
+    background-color: teal;
+}
+.user_signUp
+{
+    background-color: teal;
+}
+.user_signUpTxt
+{
+    background-color: teal;
+}
+li
+{
+    display: inline-block;
+}

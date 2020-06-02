@@ -1,0 +1,46 @@
+.head
+{
+    background-color: powderblue;
+}
+.head_content
+{
+    background-color: purple;
+}
+.user_login
+{
+    background-color: red;
+}
+.user
+{
+    background-color: sienna;
+}
+.user_menu
+{
+    background-color: slateblue;
+    float: right;
+    display: inline-block;
+}
+.user_host
+{
+    background-color: springgreen;
+}
+.user_hosting
+{
+    background-color: tomato;
+}
+.user_qna
+{
+    background-color: orange;
+}
+.user_login
+{
+    background-color: violet;
+}
+.signUp
+{
+    background-color: teal;
+}
+li
+{
+    display: inline-block;
+}
