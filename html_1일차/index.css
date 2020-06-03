@@ -1,48 +1,71 @@
 .header 
 {
-    color: aqua;
+    height: 80px;
+    background-color: aqua;
 }
 .header_menu
 {
-    color: blue; 
+    padding-left: 80px;
+    padding-right: 80px;
+    height: 80px;
+    position: relevant;
+    background-color: blue; 
 }
 .heder_logo
 {
-    color: coral;
+    display: inline-block;
+    height: 100%;
+    background-color: coral;
 }
-.header_logo_imag
+.header_logo_img
 {
-    color: darkgreen;
+    height: 100%;
+    display:block; 
+    background-color: darkgreen;
 }
 .header_menu_set
 {
-    color: darkred;
+    height: 100%;
+    display: inline-block;
+    flex-direction: row-reverse;
+    float: right;
+    background-color: darkred;
 }
-.header_menu_set_detail
+.header_menu_user
 {
-    color: gold;
+    height: 100%;
+    display: inline-block;
+    background-color: tomato;
 }
-.header_menu_set_detail_languge
+.user_languge
 {
-    color: indigo;
+    height: 100%;
 }
-.header_menu_set_detail_host
+.user_host
 {
-    color: khaki;
+    height: 100%;
 }
-.header_menu_set_detail_hosting
+.user_hosting
 {
-    color: lightgray;
+    height: 100%;
 }
-.header_menu_set_detail_qna
+.user_qna
 {
-    color: rgb(241, 157, 119);
+    height: 100%;
 }
-.header_menu_set_detail_login
+.user_login
 {
-    color: rgb(21, 4, 61);
+    height: 100%;
 }
-.signUp
+.user_signUp
 {
-    color: rgba(127, 16, 172, 0.575);
+    height: 100%;
 }
+.usermenu
+{
+    display: inline-block;
+    background-color: yellow;
+    margin: auto 0;
+}
+
+img { display: block; height: 100%; width: 100% }
